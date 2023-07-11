@@ -9,3 +9,4 @@ class Solution(object):
         actual_sum = sum(nums)
         missing_number = expected_sum - actual_sum
         return missing_number
+
